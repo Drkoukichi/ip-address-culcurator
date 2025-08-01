@@ -1,3 +1,5 @@
+[![ipfx](https://snapcraft.io/ipfx/badge.svg)](https://snapcraft.io/ipfx)
+
 # IP Address Calculator (ipfx)
 
 A comprehensive command-line tool for IP address calculations and network analysis.
